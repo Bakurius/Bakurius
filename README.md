@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everything around me with just answering one question - why?
 - 🌱 I’m currently learning Frond-end
 - 💞️ I’m looking to collaborate on politicions
-- 📫 How to reach me via soc. media
+- 📫 How to reach me... https://www.facebook.com/ 
 - ⚡ Fun fact: ... I have 146 IQ with higher-order thinking skills ( Bloom's Taxonomy )
 
 <!---
