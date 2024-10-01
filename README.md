@@ -9,7 +9,12 @@
   R = Routine
   E = Education 
   A = Action 
-  M = Mentality 
+  M = Mentality
+  
+  E+ ( For me constantly asking why + reading books )
+  A+ ( Again, for me it is like making experiments/challanges to myself in order to glow up and shine( Develop ) )
+  M+ ( Looking forward with big dreams, with healthy, sophisticated lifestyle and again constantly learning new things, I love learning )
+
   |||| Dream big. Work hard. 
 
 <!---
