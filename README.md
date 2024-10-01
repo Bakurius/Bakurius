@@ -7,9 +7,9 @@
   
   D = Discipline
   R = Routine
-  E = Education ( For me constantly asking why + reading books )
-  A = Action ( Again, for me it is like making experiments/challanges to myself in order to glow up and shine( Develop ) )
-  M = Mentality ( Looking forward with big dreams, with healthy, sophisticated lifestyle and again constantly learning new things, I love learning )
+  E = Education 
+  A = Action 
+  M = Mentality 
   Dream big. Work hard. 
 
 <!---
