@@ -10,7 +10,7 @@
   E = Education 
   A = Action 
   M = Mentality 
-  Dream big. Work hard. 
+  |||| Dream big. Work hard. 
 
 <!---
 Bakurius/Bakurius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
