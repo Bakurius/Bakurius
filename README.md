@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 1. C++
 - 💞️ I’m looking to collaborate on politicions
 - 📫 How to reach me... https://www.facebook.com/ 
-- ⚡ Fun fact: ... I have an IQ of 146, higher-order thinking skills (based on Bloom's Taxonomy), far-sighted thoughts, and the ability to write not only code but also about the inner realities of humans.
+- ⚡ Fun fact: ... I have an IQ of 146, higher-order thinking skills (based on Bloom's Taxonomy), and a visionary mindset that allows me to think far ahead. Beyond my ability to write code, I excel in capturing the       essence of human nature—expressing emotions, motivations, fears, dreams, and the intricacies of the human condition through my writing.
   
   D = Discipline
   R = Routine
